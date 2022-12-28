@@ -1,0 +1,41 @@
+body {
+
+	font-family: 'poppins', sans-serif;
+	background-image: url('images/png.png');
+	background-size: cover	;
+	background-repeat: no-repeat;
+	align-items: center;
+}
+
+.nav {
+	
+	display: inline-block;
+	
+}
+
+.nav ul {
+	 
+	margin-left: 1000px ;
+	margin-top: 10px;
+}
+.nav ul li   {
+	list-style: none;
+	display: inline-block;
+	margin-left: 30px;
+	font-weight: 600;
+	font-size: ;
+	
+}
+.nav ul li a {
+
+	color: white;
+	text-decoration: none;
+	transform : color 1s ;
+
+}
+
+
+.nav ul li a:hover {
+
+	color : #00FFEA ; 
+}

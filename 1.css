@@ -3,7 +3,7 @@ body {
 	font-family: 'poppins', sans-serif;
 	background-image: url('images/png.png');
 	background-size: cover	;
-	background-repeat: none;
+	background-repeat: no-repeat;
 	justify-content: center;
 	align-items: center;
 }
@@ -37,7 +37,7 @@ ul li a {
 
 ul li a:hover {
 
-	color ;
+	color: #00FFEA ;  
 }
 
 .content {
@@ -61,7 +61,7 @@ ul li a:hover {
 	-webkit-text-stroke : 2px #fff ;
 	color : transparent ;
 	cursor : pointer; 
-	
+
 
 
 
@@ -84,5 +84,11 @@ ul li a:hover {
 	display: flex;
 	
 }
+
+
+
+
+
+
 
 

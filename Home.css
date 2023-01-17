@@ -9,7 +9,7 @@ body {
 
 .back {
 	width: 1280px;
-	height: 900px;
+	height: 2000px;
 	background-color: #000000;
 	opacity: 75%;
 	margin-left: 25px;
@@ -218,5 +218,55 @@ padding-top: 1px;
 
 	background: rgb(227,88,227);
 	background: linear-gradient(45deg, rgba(227,88,227,1) 0%, rgba(255,255,255,1) 100%);
+
+}
+
+.sub {
+
+	margin-top: 100px;
+}
+
+.sub a {
+
+	text-decoration: none;
+
+	color: #FFB6C1;
+	font-size: 35px;
+}
+
+.sub hr {
+
+	width: 12%;
+	margin-top: -20px;
+}
+
+.sub img {
+
+	width: 1000px ;
+	height: 450px;
+	border-radius: 25px;
+	border : 2px solid white ;
+	margin-top: 10px; 
+}
+
+.sub img:hover {
+
+	cursor: not-allowed;
+}
+
+
+.sub p {
+
+	color: white;
+	font-weight: 200;
+	margin-left: 200px;
+	margin-right: 200px;
+
+}
+
+
+.sub p:hover {
+
+	cursor: pointer ;
 
 }
